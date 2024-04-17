@@ -32,6 +32,8 @@ The goal of this project was to leverage Python and data analysis tools to perfo
    - Created interactive plots and charts using Matplotlib and Seaborn.
    - Visualized booking trends, guest demographics, and other relevant insights.
    - Ensured visualizations are clear, insightful, and suitable for presentation.
+   - ![image](https://github.com/deepinmachine/hotel_booking_analysis/assets/131986205/ff9cf06f-fb8a-4d81-9b42-2cdfaa7bdaba)
+
 
 ## Key Findings
 
