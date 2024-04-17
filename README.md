@@ -44,5 +44,4 @@ The goal of this project was to leverage Python and data analysis tools to perfo
   ![image](https://github.com/deepinmachine/hotel_booking_analysis/assets/131986205/3b6ecb74-5303-4a7a-824b-92de377d331b)
 
 
-## Project Structure
 
