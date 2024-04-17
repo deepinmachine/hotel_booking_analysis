@@ -41,6 +41,8 @@ The goal of this project was to leverage Python and data analysis tools to perfo
 - **Cancellation Patterns:** Investigated factors influencing booking cancellations.
   ![image](https://github.com/deepinmachine/hotel_booking_analysis/assets/131986205/f58802df-8f93-44fa-977a-b2160500b4bb)
 - **Revenue Analysis:** Explored revenue trends based on different hotel features.
+  ![image](https://github.com/deepinmachine/hotel_booking_analysis/assets/131986205/3b6ecb74-5303-4a7a-824b-92de377d331b)
+
 
 ## Project Structure
 
