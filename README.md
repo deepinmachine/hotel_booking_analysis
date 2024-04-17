@@ -32,18 +32,14 @@ The goal of this project was to leverage Python and data analysis tools to perfo
    - Created interactive plots and charts using Matplotlib and Seaborn.
    - Visualized booking trends, guest demographics, and other relevant insights.
    - Ensured visualizations are clear, insightful, and suitable for presentation.
-   - ![image](https://github.com/deepinmachine/hotel_booking_analysis/assets/131986205/ff9cf06f-fb8a-4d81-9b42-2cdfaa7bdaba)
-   - CATEGORY WISE BOOKING STATUS
-   - ![image](https://github.com/deepinmachine/hotel_booking_analysis/assets/131986205/f58802df-8f93-44fa-977a-b2160500b4bb)
-   - NUMBER OF CANCELLED HOTELS
-
-
 
 ## Key Findings
 
 - **Booking Trends:** Identified peak booking periods throughout the year.
 - **Guest Demographics:** Analyzed guest profiles based on nationality, age, etc.
+   ![image](https://github.com/deepinmachine/hotel_booking_analysis/assets/131986205/ff9cf06f-fb8a-4d81-9b42-2cdfaa7bdaba)
 - **Cancellation Patterns:** Investigated factors influencing booking cancellations.
+  ![image](https://github.com/deepinmachine/hotel_booking_analysis/assets/131986205/f58802df-8f93-44fa-977a-b2160500b4bb)
 - **Revenue Analysis:** Explored revenue trends based on different hotel features.
 
 ## Project Structure
